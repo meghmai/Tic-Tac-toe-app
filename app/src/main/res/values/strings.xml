@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tic-Tac-toe</string>
+    <string name="newgame">new game</string>
+    <string name="continuegame">continue</string>
+    <string name="instructions">instructions</string>
+    <string name="exit">exit</string>
+    <string name="single">single player</string>
+    <string name="multi">multi player</string>
+    <string name="moves">Moves\t:\t</string>
+    <string name="player1">Name of Player One :</string>
+    <string name="player2">Name of Player Two :</string>
+    <string name="name">Karthik</string>
+    <string name="instruction">instructions</string>
+    <string name="instructionsd">--> The game can be played by single player or two players.\n\n
+    --> If it is single player then the other player is computer.\n\n
+    --> There is a 3x3 grid in the game in which player-I places \'X\' in the boxes and player-II places \'O\' in the boxes.\n\n
+    --> In each turn player must fill only one box.\n\n
+    --> The player who first completes a row or column or diagonal first respectively with \'X\' or \'O\' is the winner of the game.\n\n
+    --> If no player can achieve a complete row or column or diagonal with \'X\' or \'O\' then the game is draw.\n\n</string>
+    <string name="easy">easy</string>
+    <string name="hard">hard</string>
+</resources>
